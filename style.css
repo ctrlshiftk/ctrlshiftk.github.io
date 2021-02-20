@@ -1,0 +1,26 @@
+body {
+    font: 30px "Franklin Gothic Heavy";
+    color: #ffc800;
+    margin-left: 5%;
+}
+
+h1 {
+    font: 120px "Franklin Gothic Heavy";
+    font-weight: bold;
+    color: #ffc800;
+}
+
+.btn {
+    transition: color 0.4s ease;
+    
+    outline: none;
+    background: white;
+    color: #ffc800;
+    border: 5px solid #ffc800;
+    font: 40px "Franklin Gothic Heavy";
+}
+
+.btn:hover {
+    color: white;
+    background: #ffc800;
+}
